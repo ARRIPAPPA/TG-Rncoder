@@ -117,7 +117,7 @@ async def start(event, args, client):
     await event.reply(
         msg,
         buttons=[
-            [Button.url("💝 Owner 💝", url="t.me/J_S_X_20")],
+            [Button.url("💝 Owner 💝", url="t.me/Blaster_Originals")],
         ],
     )
 
@@ -160,7 +160,7 @@ async def beck(event):
     await event.edit(
         msg,
         buttons=[
-            [Button.url("Owner", url="t.me/J_S_X_20")],
+            [Button.url("Owner", url="t.me/t.me/Blaster_Originals")],
         ],
     )
 
