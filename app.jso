@@ -3,8 +3,8 @@
     "description": "A telegram bot which encodes videos.",
     "logo": "https://telegra.ph/file/75ee20ec8d8c8bba84f02.jpg",
     "keywords": ["Telegram","python", "Video","Compressor","Encoder"],
-    "repository": "https://github.com/RAGAVANM1/Tg-encoder",
-    "success_url": "https://t.me/J_S_X_20",
+    "repository": "https://github.com/ARRIPAPPA/TG-Rncoder",
+    "success_url": "https://t.me/Blaster_Originals",
     "stack": "container",
     "env": {
         "ALWAYS_DEPLOY_LATEST": {
